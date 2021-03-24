@@ -5,7 +5,7 @@
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-0.png?raw=true "Firebase-0")
 
 - Step3: Enter project name
-> <p style="color:blue">if you have google cloud project, you can select with dropdown list</p>
+> if you have google cloud project, you can select with dropdown list
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-1.png?raw=true "Firebase-1")
 - Click Continue
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-2.png?raw=true "Firebase-2")
@@ -35,5 +35,5 @@
     - name a nickname for your app and Click Register app
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-10.png?raw=true "Firebase-10")
     - Implement to your app
-    > <p style="color:blue">Copy and paste these scripts into the bottom of your <body> tag, but before you use any Firebase services</p>
+    > Copy and paste these scripts into the bottom of your <body> tag, but before you use any Firebase services
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-11.png?raw=true "Firebase-11")
