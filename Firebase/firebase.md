@@ -15,25 +15,25 @@
 
 - Back to project overview
     - select build 
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-4.png?raw=true "Firebase-4")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-4.png?raw=true "Firebase-4")
     - select authentication
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-5.png?raw=true "Firebase-5")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-5.png?raw=true "Firebase-5")
     - Click Get started
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-6.png?raw=true "Firebase-6")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-6.png?raw=true "Firebase-6")
 
 - select Sign in method
 ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-7.png?raw=true "Firebase-7")
     - enable email authentication
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-8.png?raw=true "Firebase-8")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-8.png?raw=true "Firebase-8")
     - scroll down add Authenticate domain 
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-12.png?raw=true "Firebase-12")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-12.png?raw=true "Firebase-12")
 
 
 - Back to project overview
     - add Web type app 
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-9.png?raw=true "Firebase-9")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-9.png?raw=true "Firebase-9")
     - name a nickname for your app and Click Register app
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-10.png?raw=true "Firebase-10")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-10.png?raw=true "Firebase-10")
     - Implement to your app
     > Copy and paste these scripts into the bottom of your <body> tag, but before you use any Firebase services
-![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-11.png?raw=true "Firebase-11")
+    ![image alt](https://github.com/BladeChang/tutorial/blob/main/Firebase/resources/img/Firebase-11.png?raw=true "Firebase-11")
